@@ -1,0 +1,1 @@
+{"version":3,"file":"chatmessage.js","sourceRoot":"","sources":["../../../../src/routes/messages/chatmessage.ts"],"names":[],"mappings":";;;AAAA,yDAAyE;AAGlE,MAAM,gBAAgB,GAAG,CAAC,MAAsB,EAAE,EAAE;IACzD,uBAAuB;IACvB,MAAM,CAAC,IAAI,CAAC,sBAAsB,EAAE,kBAAU,CAAC,CAAC;IAEhD,mDAAmD;IACnD,MAAM,CAAC,GAAG,CAAC,6CAA6C,EAAE,oBAAY,CAAC,CAAC;AAC1E,CAAC,CAAC;AANW,QAAA,gBAAgB,oBAM3B"}
